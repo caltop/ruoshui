@@ -1,0 +1,588 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv1.png" group-title="CCTV",CCTV1FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226995/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv2.png" group-title="CCTV",CCTV2FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226915/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv3.png" group-title="CCTV",CCTV3FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4.png" group-title="CCTV",CCTV4FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226968/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5.png" group-title="CCTV",CCTV5FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227170/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv6.png" group-title="CCTV",CCTV6FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227137/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv7.png" group-title="CCTV",CCTV7FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226972/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv8.png" group-title="CCTV",CCTV8FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227174/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv9.png" group-title="CCTV",CCTV9FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226923/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv10.png" group-title="CCTV",CCTV10FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226976/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv11.png" group-title="CCTV",CCTV11FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv12.png" group-title="CCTV",CCTV12FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226931/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv13.png" group-title="CCTV",CCTV13FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv14.png" group-title="CCTV",CCTV14FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227086/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv15.png" group-title="CCTV",CCTV15FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226989/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv16.png" group-title="CCTV",CCTV16 4K
+http://39.135.49.20:6610/PLTV/88888888/224/3221227162/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv17.png" group-title="CCTV",CCTV17FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226986/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4K.png" group-title="CCTV",CCTV4K
+http://39.135.55.13:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4EOU.png" group-title="CCTV",CCTV4EOU FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4AME.png" group-title="CCTV",CCTV4AME FHD
+http://117.148.179.162/PLTV/88888888/224/3221231654/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5plus.png" group-title="CCTV",CCTV5+FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
+
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227232/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="卫视",浙江卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227193/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视.png" group-title="卫视",北京卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227246/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/东方卫视.png" group-title="卫视",东方卫视FHD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/安徽卫视.png" group-title="卫视",安徽卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227178/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/广东卫视.png" group-title="卫视",广东卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227164/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/深圳卫视.png" group-title="卫视",深圳卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227242/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/辽宁卫视.png" group-title="卫视",辽宁卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221225832/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/海南卫视.png" group-title="卫视",海南卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227216/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/山东卫视.png" group-title="卫视",山东卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227236/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/天津卫视.png" group-title="卫视",天津卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227205/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/重庆卫视.png" group-title="卫视",重庆卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227240/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/东南卫视.png" group-title="卫视",东南卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227156/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/甘肃卫视.png" group-title="卫视",甘肃卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227262/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/广西卫视.png" group-title="卫视",广西卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227250/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/贵州卫视.png" group-title="卫视",贵州卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227201/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河北卫视.png" group-title="卫视",河北卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227063/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/黑龙江卫视.png" group-title="卫视",黑龙江卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227197/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河南卫视.png" group-title="卫视",河南卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227095/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖北卫视.png" group-title="卫视",湖北卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227111/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江西卫视2.png" group-title="卫视",江西卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227209/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/吉林✵卫视.png" group-title="卫视",吉林卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227099/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/四川卫视.png" group-title="卫视",四川卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227182/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/云南卫视.png" group-title="卫视",云南卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227181/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/青海卫视.png" group-title="卫视",青海卫视FHD
+http://218.204.51.252:9901/tsfile/live/1050_1.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/兵团卫视.png" group-title="卫视",兵团卫视FHD
+http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/厦门卫视.png" group-title="卫视",厦门卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221226781/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/海峡卫视.png" group-title="卫视",海峡卫视FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227198/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/新疆卫视.png" group-title="卫视",新疆卫视FHD
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/凤凰中文.png" group-title="卫视",凤凰中文FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/凤凰资讯.png" group-title="卫视",凤凰资讯FHD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227226/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/凤凰香港.png" group-title="卫视",凤凰香港FHD
+http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/山西卫视.png" group-title="卫视",山西卫视HD
+http://liveflash.sxrtv.com/live/sxwshd.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/延边卫视.png" group-title="卫视",延边卫视HD
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/三沙卫视.png" group-title="卫视",三沙卫视HD
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/内蒙古卫视.png" group-title="卫视",内蒙古卫视SD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227244/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/宁夏卫视.png" group-title="卫视",宁夏卫视SD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227254/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/陕西卫视.png" group-title="卫视",陕西卫视SD
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/康巴卫视.png" group-title="卫视",康巴卫视SD
+http://111.40.196.38/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/西藏卫视.png" group-title="卫视",西藏卫视SD
+http://39.135.49.20:6610/PLTV/88888888/224/3221227217/1.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/农林卫视.png" group-title="卫视",农林卫视SD
+http://39.135.138.58:18890/TVOD/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/南方卫视.png" group-title="卫视",南方卫视SD
+http://39.135.138.58:18890/TVOD/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/香港卫视.png" group-title="卫视",香港卫视SD
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CHC高清电影.png" group-title="数字",CHC高清电影FHD
+http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CHC动作电影.png" group-title="数字",CHC动作电影FHD
+http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CHC家庭影院.png" group-title="数字",CHC家庭影院FHD
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="纯享4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/纯享4K.png" group-title="数字",纯享4K
+http://39.135.55.13:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/爱上4K.png" group-title="数字",爱上4K
+http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CETV1.png" group-title="数字",CETV1FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/黑莓电影.png" group-title="数字",黑莓电影FHD
+http://39.135.47.100:6610/000000001000/jdianying/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索科学.png" group-title="数字",求索科学FHD
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索动物.png" group-title="数字",求索动物FHD
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
+#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索纪录.png" group-title="数字",求索纪录FHD
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索生活.png" group-title="数字",求索生活FHD
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵新闻.png" group-title="地方",豫✵新闻频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/0325f1d561144613b9c90adc64ddbdc8_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵国际.png" group-title="地方",豫✵河南国际FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/d7d843b7f7f649d39bc57c8d29e9fe33_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵都市.png" group-title="地方",豫✵都市频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/e775d12dd48d4731ae8bdea77dd1e9f9_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵公共.png" group-title="地方",豫✵公共频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/64eed945d15c4a55b5962ea3da44f80f_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵乡村.png" group-title="地方",豫✵乡村频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/4ba68fd1b8b442d7a408a260592a5592_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵法制.png" group-title="地方",豫✵法治频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/88464421a8cd4ae88199f19b4c27ff0d_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵民生.png" group-title="地方",豫✵民生频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/6b5076ef2e1f4185b629d3d3db4fb476_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵电视剧.png" group-title="地方",豫✵电视剧频道SD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/af5c15b361b647ec8549eaae815916a0_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵梨园.png" group-title="地方",豫✵梨园频道FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/6b32da00ac754c8a8f2e310b22d11fb3_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵移动戏曲.png" group-title="地方",豫✵移动戏曲FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵睛彩中原.png" group-title="地方",豫✵睛彩中原FHD
+http://61.163.111.46/tvcdn.stream3.hndt.com/tv/a0ec347a0e3540bab8a80deed0a07139_transios/playlist.m3u8?wsApp=HLS&wsMonitor=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵开封.png" group-title="地方",豫✵开封新综SD
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵开封.png" group-title="地方",豫✵开封文旅SD
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵都市频道.png" group-title="地方",沪✵都市频道FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵东方影视.png" group-title="地方",沪✵东方影视FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵新视觉.png" group-title="地方",沪✵新视觉FHD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵幸福彩.png" group-title="地方",沪✵幸福彩FHD
+http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵游戏风云.png" group-title="地方",沪✵游戏风云FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/MIGUYplus.png" group-title="地方",沪✵咪咕Y+FHD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵city都市剧场.png" group-title="地方",沪✵都市剧场FHD
+http://39.135.55.13:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵欢笑剧场4K.png" group-title="地方",沪✵欢笑剧场 4K 
+http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵钱江.png" group-title="地方",浙✵钱江FHD
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵经济生活.png" group-title="地方",浙✵经济生活FHD
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵教育科技.png" group-title="地方",浙✵教育科技FHD
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵民生休闲.png" group-title="地方",浙✵民生休闲FHD
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵数码时代.png" group-title="地方",浙✵数码时代FHD
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵浙江国际.png" group-title="地方",浙✵浙江国际FHD
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵杭州综合.png" group-title="地方",浙✵杭州综合FHD
+http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵杭州明珠.png" group-title="地方",浙✵杭州明珠FHD
+http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵杭州生活.png" group-title="地方",浙✵杭州生活FHD
+http://112.17.40.247/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵杭州影视.png" group-title="地方",浙✵杭州影视FHD
+http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵余杭.png" group-title="地方",浙✵余杭新闻FHD
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/浙✵余杭.png" group-title="地方",浙✵余杭未来FHD
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵福州综合.png" group-title="地方",闽✵福州综合FHD
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵福州影视.png" group-title="地方",闽✵福州影视FHD
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵福州生活.png" group-title="地方",闽✵福州生活FHD
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵厦门1.png" group-title="地方",闽✵厦门一套FHD
+http://39.135.55.7:6610/PLTV/88888888/224/3221226814/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵厦门2.png" group-title="地方",闽✵厦门二套FHD
+http://39.135.55.7:6610/PLTV/88888888/224/3221226777/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/闽✵厦门3.png" group-title="地方",闽✵厦门三套FHD
+http://39.135.55.7:6610/PLTV/88888888/224/3221226760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵合肥新闻.png" group-title="地方",皖✵合肥新闻FHD
+https://hylive.hfbtv.com/lsdream/pdq062k/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵合肥财经.png" group-title="地方",皖✵合肥财经FHD
+https://hylive.hfbtv.com/lsdream/FRTSshY/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵合肥生活.png" group-title="地方",皖✵合肥生活FHD
+https://hylive.hfbtv.com/lsdream/5osSo9R/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵合肥故休.png" group-title="地方",皖✵合肥故休FHD
+https://hylive.hfbtv.com/lsdream/q66ojce/1000/live.m3u8?zanhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵淮南新综.png" group-title="地方",皖✵淮南新综FHD
+http://stream.0554news.com/hnds1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵淮南公共.png" group-title="地方",皖✵淮南公共FHD
+http://stream.0554news.com/hnds2/sd/live.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/皖✵黄山新综.png" group-title="地方",皖✵黄山新综FHD
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",皖✵肥东经生FHD
+http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",皖✵肥西新综FHD
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",湘✵嘉禾新综FHD
+http://play-dgv-xhncloud.voc.com.cn/live/5243_QyjPDY.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",湘✵资兴综合FHD
+http://liveplay.rednet.cn/live/zixin_tv_00676b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/湘✵屈原.png" group-title="地方",湘✵屈原综合FHD
+http://play-dgv-xhncloud.voc.com.cn/live/5243_f2E1iT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/湘✵芒果TV.png" group-title="地方",湘✵芒果TV4K
+http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/新✵石河子.png" group-title="地方",新✵石河子新综FHD
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/新✵石河子.png" group-title="地方",新✵石河子影文FHD
+http://124.88.144.73:1935/live/jjsh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/新✵石河子.png" group-title="地方",新✵石河子经生FHD
+http://124.88.144.73:1935/live/dywt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/新✵石河子.png" group-title="地方",新✵石河子教育FHD
+http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/琼✵海口新闻.png" group-title="地方",琼✵海口新闻FHD
+http://p2.weizan.cn/11763520/218605596729758130/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/琼✵海口经济.png" group-title="地方",琼✵海口经济FHD
+http://p2.weizan.cn/11763520/862975416677893268/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/琼✵海口生活.png" group-title="地方",琼✵海口生活FHD
+http://p2.weizan.cn/11763520/437504960339513614/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/京✵石景山.png" group-title="地方",京✵石景山FHD
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/京✵清华.png" group-title="地方",京✵清华FHD
+http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/川✵通江新综.png" group-title="地方",川✵通江综合FHD
+http://live.sctvcloud.com/live/bztongjiang/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/川✵荥经综合.png" group-title="地方",川✵荥经综合FHD
+http://m3u8.yjchannel.yatv.tv/cms/videos/nmip-media-yj/channellive/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",桂✵钦州综合FHD
+http://stream.gxqztv.com/01/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",桂✵钦州公共FHD
+http://stream.gxqztv.com/qztv03/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/奇妙电视.png" group-title="地方",粤✵蛇口综合FHD
+http://218.17.99.211:82/hls/d4encs75.m3u8?$全网超清1080P
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱科幻.png" group-title="iHOT",iHOT爱科幻FHD
+http://111.11.123.49:6610/000000001000/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱院线.png" group-title="iHOT",iHOT爱院线FHD
+http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱悬疑.png" group-title="iHOT",iHOT爱悬疑FHD
+http://111.11.123.49:6610/000000001000/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱经典.png" group-title="iHOT",iHOT爱经典FHD
+http://111.11.123.49:6610/000000001000/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱谍战.png" group-title="iHOT",iHOT爱谍战FHD
+http://111.11.123.49:6610/000000001000/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱家庭.png" group-title="iHOT",iHOT爱家庭FHD
+http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱青春.png" group-title="iHOT",iHOT爱青春FHD
+http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱江湖.png" group-title="iHOT",iHOT爱江湖FHD
+http://111.11.123.49:6610/000000001000/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱浪漫.png" group-title="iHOT",iHOT爱浪漫FHD
+http://111.11.123.49:6610/000000001000/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱怀旧.png" group-title="iHOT",iHOT爱怀旧FHD
+http://111.11.123.49:6610/000000001000/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱历史.png" group-title="iHOT",iHOT爱历史FHD
+http://111.11.123.49:6610/000000001000/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱世界.png" group-title="iHOT",iHOT爱世界FHD
+http://111.11.123.49:6610/000000001000/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱体育.png" group-title="iHOT",iHOT爱体育FHD
+http://111.11.123.49:6610/000000001000/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱喜剧.png" group-title="iHOT",iHOT爱喜剧FHD
+http://111.11.123.49:6610/000000001000/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱赛车.png" group-title="iHOT",iHOT爱赛车FHD
+http://111.11.123.49:6610/000000001000/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱探索.png" group-title="iHOT",iHOT爱探索FHD
+http://111.11.123.49:6610/000000001000/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱奇谈.png" group-title="iHOT",iHOT爱奇谈FHD
+http://111.11.123.49:6610/000000001000/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱旅行.png" group-title="iHOT",iHOT爱旅行FHD
+http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱极限.png" group-title="iHOT",iHOT爱极限FHD
+http://111.11.123.49:6610/000000001000/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱解密.png" group-title="iHOT",iHOT爱解密FHD
+http://111.11.123.49:6610/000000001000/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱幼教.png" group-title="iHOT",iHOT爱幼教FHD
+http://111.11.123.49:6610/000000001000/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱都市.png" group-title="iHOT",iHOT爱都市FHD
+http://111.11.123.49:6610/000000001000/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱猎奇.png" group-title="iHOT",iHOT爱猎奇FHD
+http://111.11.123.49:6610/000000001000/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱科学.png" group-title="iHOT",iHOT爱科学FHD
+http://111.11.123.49:6610/000000001000/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱美食.png" group-title="iHOT",iHOT爱美食FHD
+http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱时尚.png" group-title="iHOT",iHOT爱时尚FHD
+http://111.11.123.49:6610/000000001000/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱玩具.png" group-title="iHOT",iHOT爱玩具FHD
+http://111.11.123.49:6610/000000001000/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT爱动漫.png" group-title="iHOT",iHOT爱动漫FHD
+http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/动漫秀场.png" group-title="少儿",动漫秀场FHD
+http://39.135.55.7:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/黑莓动画.png" group-title="少儿",黑莓动画FHD
+http://39.135.47.100:6610/000000001000/donghuawg/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/哈哈炫动.png" group-title="少儿",哈哈炫动FHD
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/浙江少儿.png" group-title="少儿",浙江少儿FHD
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/杭州少儿.png" group-title="少儿",杭州少儿FHD
+http://112.17.40.247/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/福建少儿.png" group-title="少儿",福建少儿FHD
+http://39.135.55.13:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/福州少儿.png" group-title="少儿",福州少儿FHD
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?$4M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/黑龙江少儿.png" group-title="少儿",黑龙江少儿FHD
+http://39.134.65.141/PLTV/88888888/224/3221225979/1.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/山东少儿.png" group-title="少儿",山东少儿FHD
+http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫01FHD
+http://39.135.55.13:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫02FHD
+http://39.135.55.13:6610/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫03FHD
+http://39.135.55.13:6610/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫04FHD
+http://39.135.55.7:6610/PLTV/88888888/224/3221226743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫05FHD
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫06HD
+http://111.11.123.49:6610/000000001000/8145334647720731271/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218220220429145931225614&channel-id=wasusyt&Contentid=8145334647720731271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/南京少儿.png" group-title="少儿",南京少儿HD
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/深圳少儿.png" group-title="少儿",深圳少儿HD
+https://sztv-live.cutv.com/1SIQj6s/500/61r1zI0.m3u8?sign=73f3804a2fa54eafdba6a17b64631c4a&t=cc29c9bc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/江西少儿.png" group-title="少儿",江西少儿HD
+http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/新疆少儿.png" group-title="少儿",新疆少儿HD
+http://livehyw5.chinamcache.com/hyw/zb12.m3u8?txSecret=b2d9d5bdd746c8ae8ce02450b95e3315&txTime=95A66658
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/金鹰卡通.png" group-title="少儿",金鹰卡通HD
+http://124.232.233.15:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/卡酷少儿.png" group-title="少儿",卡酷少儿SD
+http://39.135.55.105:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/优漫卡通.png" group-title="少儿",优漫卡通SD
+http://39.134.65.162/PLTV/88888888/224/3221225556/1.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/嘉佳卡通.png" group-title="少儿",嘉佳卡通SD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231483/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/辽宁少儿.png" group-title="少儿",辽宁少儿SD
+http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/济南少儿.png" group-title="少儿",济南少儿SD
+http://39.136.48.8:8089/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BesTV.png" group-title="少儿",百视通少儿SD
+http://39.135.55.105:6610/PLTV/88888888/224/3221227041/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BesTV.png" group-title="少儿",百视通动漫SD
+http://39.135.55.105:6610/PLTV/88888888/224/3221227053/index.m3u8?servicetype=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/酷狗.png" group-title="影视",女神01HD
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/酷狗.png" group-title="影视",女神02HD
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/斗鱼.png" group-title="影视",万合天宜FHD
+http://qytv.win86.top/tv/dytv.php?id=9220456
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/斗鱼.png" group-title="影视",庆余年FHD
+http://qytv.win86.top/tv/dytv.php?id=7489563
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",杨幂作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231556/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",成龙作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231687/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",吴京作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",葛优作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",古天乐作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231645/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",刘德华作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",周润发作品HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",云上电影HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",黄金剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",军旅剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",试胆大会HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",追剧少女HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",林正英系列HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",每日荐影HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231727/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",新片放映厅HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231640/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",喜剧联盟HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",盜墓系列HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",TVB剧场HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",神探狄仁杰HD
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",01
+https://50069.njc.svp.tencent-cloud.com/0b78uyaaoaaahqapjfqfwfqvbjwda6taabya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",02
+https://50069.njc.svp.tencent-cloud.com/0bc3reabyaaa24ahktk75frfbcoddseqahaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",03
+https://50069.njc.svp.tencent-cloud.com/0b2e2yaaqaaa2aadclla4rrfbvwdbdlaacaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",04
+https://50069.njc.svp.tencent-cloud.com/0bc3miaaaaaaveahir3fmfrfaywdabraaaaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",05
+https://50069.njc.svp.tencent-cloud.com/0bc35uab4aaameaf4vta5jrfb3odd3wqahqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",06
+https://50069.njc.svp.tencent-cloud.com/0bc3cyab4aaawaaolwla4jrfafwddylaahqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",07
+https://50069.njc.svp.tencent-cloud.com/0bc3maabuaaajeaijzk55jrfaygddjqaagqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",08
+https://50069.njc.svp.tencent-cloud.com/0bc3ziabuaaawealhhs54jrfbswddlfaagqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",09
+https://50069.njc.svp.tencent-cloud.com/0bc3amabwaaa4yalto255zrfaa6ddmbqagya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",10
+https://50069.njc.svp.tencent-cloud.com/0bc3caabuaaapqal5v254nrfaegddiiaagqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",11
+https://50069.njc.svp.tencent-cloud.com/0bc3yaabyaaauqaccos74zrfbqgddtaaahaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",12
+https://50069.njc.svp.tencent-cloud.com/0b2e4aaacaaaj4aihsdffbrfbygdahqaaaia.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",13
+https://50069.njc.svp.tencent-cloud.com/0bc3qeabwaaae4afr3s74brfbaoddoaqagya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",14
+https://50069.njc.svp.tencent-cloud.com/0bc3fmabuaaaymakwck545rfak6ddivqagqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",15
+https://50069.njc.svp.tencent-cloud.com/0bc32yabuaaazeak7as54jrfbvwddllaagqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",16
+https://50069.njc.svp.tencent-cloud.com/0bc3waabyaaa4iaerzs75zrfbmgddsyaahaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",17
+https://50069.njc.svp.tencent-cloud.com/0bc3cmabyaaayeaekpc74zrfae6ddqjqahaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",18
+https://50069.njc.svp.tencent-cloud.com/0b2e64aaoaaagmafx3k76zrfb56da73qabya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",19
+https://50069.njc.svp.tencent-cloud.com/0bf2cmaauaaazaadzirl6nqvae6dbijqacqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",20
+https://50069.njc.svp.tencent-cloud.com/0bf2viaayaaaweadnasq5bqfbkwdbsvaadaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",21
+https://50069.njc.svp.tencent-cloud.com/0bf2iqaa6aaa3ead6d2q3zqfargdb5caadya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",22
+https://50069.njc.svp.tencent-cloud.com/0bf26uaa4aaaneacnvkq2zqfb5odb32qadqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",23
+https://50069.njc.svp.tencent-cloud.com/0bf22uaawaaakiacgmsq5jqfbvodbpkqacya.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",24
+https://50069.njc.svp.tencent-cloud.com/0bf2gqaa4aaal4acmisq2zqfangdby2aadqa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",笑傲江湖
+https://50069.njc.svp.tencent-cloud.com/0bc34mabyaaat4acczda45rfby6ddtrqahaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/李连杰.png" group-title="林正英",太极张三丰
+https://50069.njc.svp.tencent-cloud.com/0bf2iiaayaaaduadxb2q2fqfaqwdbrbaadaa.f10002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/李连杰.png" group-title="林正英",精武陈真
+https://50069.njc.svp.tencent-cloud.com/0bf2pyaayaaa3uaccucq4vqfa7wdbr7aadaa.f10002.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 中国之声
+http://ls.qingting.fm/live/386.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 经典音乐广播 101.8
+http://ls.qingting.fm/live/389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 经济之声
+http://ls.qingting.fm/live/387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 神州之声
+ttp://live.xmcdn.com/live/15/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 文艺之声
+http://live.xmcdn.com/live/38/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 音乐之声
+http://ls.qingting.fm/live/388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 娱乐广播
+http://ls.qingting.fm/live/398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 中国交通广播
+http://ls.qingting.fm/live/4985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CNR 中国乡村之声
+http://ls.qingting.fm/live/5039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CityFM✵城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CityFM✵大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CRI 南海之声
+http://live.xmcdn.com/live/1054/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",CRI 中文环球广播
+http://ls.qingting.fm/live/4995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",Heart FM 乐动1056
+http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingdianyinle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",RTI国语
+https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",安徽戏曲广播
+http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",安徽音乐广播
+http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",北京房山经典音乐
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",北京好音乐
+http://ls.qingting.fm/live/2131011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",北京文艺广播
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",北京音乐广播
+http://live.xmcdn.com/live/95/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",潮流音悦台
+http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",动感音悦台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南交通广播 FM104.1
+http://ls.qingting.fm/live/1209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南乐龄(信息广播) FM105.6
+http://ls.qingting.fm/live/59896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南新闻广播 FM95.4
+http://ls.qingting.fm/live/1215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南音乐广播 魅力881 FM88.1
+http://ls.qingting.fm/live/1208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南影视广播 MyRadio FM90.0
+http://ls.qingting.fm/live/1206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",河南娱乐广播 FM97.6
+http://ls.qingting.fm/live/1719795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",金鹰之声
+http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",郑州经典广播 FM107.9
+http://ls.qingting.fm/live/1223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",郑州汽车广播 FM91.2
+http://ls.qingting.fm/live/1211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",郑州新闻广播 FM98.6
+http://ls.qingting.fm/live/1220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/FM.png" group-title="广播",中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
