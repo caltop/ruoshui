@@ -1,25 +1,26 @@
 # 十三
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+收集国内公共IPTV频道。互联网协议电视（IPTV）是通过互联网协议（IP）网络传送电视内容的方法。
 
 #### 软件架构
-软件架构说明
+软件架构说明：国内直播源
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  若水：https://gitee.com/wdc558/ruoshui/raw/master/ruoshui.m3u
+2.  Calendre：https://gitee.com/boshilunyanjing/calendre/raw/master/calendre.m3u8
+3.  备用
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  https://gitee.com/wdc558/ruoshui/raw/master/cctv/.png
+2.  https://gitee.com/wdc558/ruoshui/raw/master/weishi/.png
+3.  https://gitee.com/wdc558/ruoshui/raw/master/difang/.png
+4.  https://gitee.com/wdc558/ruoshui/raw/master/shaoer/.png
+5.  https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT.png
+6.  https://gitee.com/wdc558/ruoshui/raw/master/qita/.png
 
 #### 参与贡献
 
@@ -37,4 +38,3 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
-
