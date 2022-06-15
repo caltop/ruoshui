@@ -4,14 +4,14 @@
 收集国内公共IPTV频道。互联网协议电视（IPTV）是通过互联网协议（IP）网络传送电视内容的方法。
 
 #### 软件架构
-软件架构说明：国内直播源
+软件架构说明：国内直播源和biubiu接口
 
 
 #### 安装教程
 
-1.  若水：https://gitee.com/wdc558/ruoshui/raw/master/ruoshui.m3u
+1.  十三：https://gitee.com/wdc558/thirteen/raw/master/shisan.m3u8
 2.  Calendre：https://gitee.com/boshilunyanjing/calendre/raw/master/calendre.m3u8
-3.  备用
+3.  粘贴→复制
 
 #### 使用说明
 
