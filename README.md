@@ -12,7 +12,7 @@
 1.  十三：https://gitee.com/wdc558/thirteen/raw/master/shisan.m3u8
 2.  Calendre：https://gitee.com/boshilunyanjing/calendre/raw/master/calendre.m3u8
 3.  biubiu：https://gitee.com/wdc558/thirteen/raw/master/biubiutv.json
-3.  粘贴→复制
+3.  把对应原始地址粘贴→复制即可
 
 #### 使用说明
 
