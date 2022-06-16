@@ -36,7 +36,7 @@ http://39.135.32.7:6610/000000001000/HD-4000k-1080P-cctv17/1.m3u8?IASHttpSession
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4K.png" group-title="CCTV",CCTV4K
 http://39.135.55.13:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4EOU.png" group-title="CCTV",CCTV4EOU FHD
-http://117.148.179.157/PLTV/88888888/224/3221231615/index.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4AME.png" group-title="CCTV",CCTV4AME FHD
 http://117.148.179.162/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5plus.png" group-title="CCTV",CCTV5+FHD
@@ -46,7 +46,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="卫视",浙江卫视FHD
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#官方
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
-http://117.148.179.157/PLTV/88888888/224/3221230232/index.m3u8#咪咕
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
 http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视.png" group-title="卫视",北京卫视FHD
