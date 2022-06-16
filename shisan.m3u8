@@ -48,7 +48,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#官方
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
 http://117.148.179.157/PLTV/88888888/224/3221230232/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
+http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视.png" group-title="卫视",北京卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227246/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/东方卫视.png" group-title="卫视",东方卫视FHD
@@ -84,13 +84,13 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221227197/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河南卫视.png" group-title="卫视",河南卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227095/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖北卫视.png" group-title="卫视",湖北卫视FHD
-http://117.148.179.157/PLTV/88888888/224/3221231888/index.m3u8#咪咕
+http://117.148.179.142/PLTV/88888888/224/3221231888/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江西卫视2.png" group-title="卫视",江西卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227209/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/吉林✵卫视.png" group-title="卫视",吉林卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227099/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/四川卫视.png" group-title="卫视",四川卫视FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221227182/1.m3u8?servicetype=1
+http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/云南卫视.png" group-title="卫视",云南卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227181/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/青海卫视.png" group-title="卫视",青海卫视FHD
@@ -369,6 +369,8 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?$4M
 http://39.134.65.141/PLTV/88888888/224/3221225979/1.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/山东少儿.png" group-title="少儿",山东少儿FHD
 http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",海看少儿FHD
+http://39.136.48.99:8089/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫01FHD
 http://39.135.55.13:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/BabyTV.png" group-title="少儿",动漫02FHD
