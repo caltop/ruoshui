@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv1.png" group-title="CCTV",CCTV1FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221226995/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv2.png" group-title="CCTV",CCTV2FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221226915/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv3.png" group-title="CCTV",CCTV3FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227055/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4.png" group-title="CCTV",CCTV4FHD
@@ -16,13 +16,13 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221226972/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv8.png" group-title="CCTV",CCTV8FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227174/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv9.png" group-title="CCTV",CCTV9FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221226923/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv10.png" group-title="CCTV",CCTV10FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221226976/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv11.png" group-title="CCTV",CCTV11FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221226927/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv12.png" group-title="CCTV",CCTV12FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221226931/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv13.png" group-title="CCTV",CCTV13FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221226985/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv14.png" group-title="CCTV",CCTV14FHD
@@ -46,7 +46,7 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="卫视",浙江卫视FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221227193/1.m3u8?servicetype=1
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视.png" group-title="卫视",北京卫视FHD
@@ -84,7 +84,7 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221227197/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河南卫视.png" group-title="卫视",河南卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227095/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖北卫视.png" group-title="卫视",湖北卫视FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221227111/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江西卫视2.png" group-title="卫视",江西卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227209/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/吉林✵卫视.png" group-title="卫视",吉林卫视FHD
@@ -146,7 +146,7 @@ http://39.135.55.13:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&I
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/爱上4K.png" group-title="数字",爱上4K
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CETV1.png" group-title="数字",CETV1FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/黑莓电影.png" group-title="数字",黑莓电影FHD
 http://39.135.47.100:6610/000000001000/jdianying/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索科学.png" group-title="数字",求索科学FHD
@@ -186,9 +186,9 @@ http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵开封.png" group-title="地方",豫✵开封文旅SD
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵都市频道.png" group-title="地方",沪✵都市频道FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵东方影视.png" group-title="地方",沪✵东方影视FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵新视觉.png" group-title="地方",沪✵新视觉FHD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵幸福彩.png" group-title="地方",沪✵幸福彩FHD
