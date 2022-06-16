@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv1.png" group-title="CCTV",CCTV1FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231468/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv2.png" group-title="CCTV",CCTV2FHD
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv3.png" group-title="CCTV",CCTV3FHD
