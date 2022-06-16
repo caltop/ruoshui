@@ -44,7 +44,7 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221226919/1.m3u8?servicetype=1
 
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
-http://39.135.49.20:6610/PLTV/88888888/224/3221227232/1.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="卫视",浙江卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227193/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
