@@ -12,7 +12,7 @@ http://39.135.32.26:6610/000000001000/1000000003000030177/1.m3u8?
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv6.png" group-title="CCTV",CCTV6FHD
 http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv7.png" group-title="CCTV",CCTV7FHD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231633/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv8.png" group-title="CCTV",CCTV8FHD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv9.png" group-title="CCTV",CCTV9FHD
@@ -26,7 +26,7 @@ http://117.148.179.157/PLTV/88888888/224/3221231660/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv13.png" group-title="CCTV",CCTV13FHD
 http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv14.png" group-title="CCTV",CCTV14FHD
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231648/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv15.png" group-title="CCTV",CCTV15FHD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv16.png" group-title="CCTV",CCTV16 4K
