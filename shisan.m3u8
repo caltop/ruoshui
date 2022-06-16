@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv1.png" group-title="CCTV",CCTV1FHD
 http://117.148.179.157/PLTV/88888888/224/3221231468/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv2.png" group-title="CCTV",CCTV2FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231678/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231678/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv3.png" group-title="CCTV",CCTV3FHD
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4.png" group-title="CCTV",CCTV4FHD
@@ -16,13 +16,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv8.png" group-title="CCTV",CCTV8FHD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv9.png" group-title="CCTV",CCTV9FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231697/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231697/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv10.png" group-title="CCTV",CCTV10FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231666/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231666/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv11.png" group-title="CCTV",CCTV11FHD
 http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv12.png" group-title="CCTV",CCTV12FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231660/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231660/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv13.png" group-title="CCTV",CCTV13FHD
 http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv14.png" group-title="CCTV",CCTV14FHD
@@ -36,7 +36,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4K.png" group-title="CCTV",CCTV4K
 http://39.135.55.13:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4EOU.png" group-title="CCTV",CCTV4EOU FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231615/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231615/index.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4AME.png" group-title="CCTV",CCTV4AME FHD
 http://117.148.179.162/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5plus.png" group-title="CCTV",CCTV5+FHD
@@ -46,7 +46,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="卫视",浙江卫视FHD
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#官方
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="卫视",湖南卫视FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230232/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221230232/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="卫视",江苏卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227160/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视.png" group-title="卫视",北京卫视FHD
@@ -84,7 +84,7 @@ http://39.135.49.20:6610/PLTV/88888888/224/3221227197/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河南卫视.png" group-title="卫视",河南卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227095/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖北卫视.png" group-title="卫视",湖北卫视FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231888/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231888/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江西卫视2.png" group-title="卫视",江西卫视FHD
 http://39.135.49.20:6610/PLTV/88888888/224/3221227209/1.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/吉林✵卫视.png" group-title="卫视",吉林卫视FHD
@@ -146,7 +146,7 @@ http://39.135.55.13:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&I
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/爱上4K.png" group-title="数字",爱上4K
 http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/CETV1.png" group-title="数字",CETV1FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231714/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231714/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/黑莓电影.png" group-title="数字",黑莓电影FHD
 http://39.135.47.100:6610/000000001000/jdianying/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/求索科学.png" group-title="数字",求索科学FHD
@@ -186,17 +186,17 @@ http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/豫✵开封.png" group-title="地方",豫✵开封文旅SD
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵都市频道.png" group-title="地方",沪✵都市频道FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231618/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231618/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵东方影视.png" group-title="地方",沪✵东方影视FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231639/index.m3u8#咪咕
+http://117.148.179.157/PLTV/88888888/224/3221231639/index.m3u8#咪咕
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵新视觉.png" group-title="地方",沪✵新视觉FHD
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵幸福彩.png" group-title="地方",沪✵幸福彩FHD
 http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵游戏风云.png" group-title="地方",沪✵游戏风云FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231730/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/MIGUYplus.png" group-title="地方",沪✵咪咕Y+FHD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵city都市剧场.png" group-title="地方",沪✵都市剧场FHD
 http://39.135.55.13:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/difang/沪✵欢笑剧场4K.png" group-title="地方",沪✵欢笑剧场 4K 
@@ -396,7 +396,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/优漫卡通.png" group-title="少儿",优漫卡通SD
 http://39.134.65.162/PLTV/88888888/224/3221225556/1.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/嘉佳卡通.png" group-title="少儿",嘉佳卡通SD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231483/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231483/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/辽宁少儿.png" group-title="少儿",辽宁少儿SD
 http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/济南少儿.png" group-title="少儿",济南少儿SD
@@ -416,43 +416,43 @@ http://qytv.win86.top/tv/dytv.php?id=9220456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/斗鱼.png" group-title="影视",庆余年FHD
 http://qytv.win86.top/tv/dytv.php?id=7489563
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",杨幂作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231556/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231556/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",成龙作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231687/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231687/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",吴京作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231564/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231564/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",葛优作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231754/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231754/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",古天乐作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231645/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231645/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",刘德华作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231757/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",周润发作品HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231709/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",云上电影HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231565/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231565/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",黄金剧场HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231637/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231637/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",军旅剧场HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231585/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231585/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",试胆大会HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231672/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231672/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",追剧少女HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231643/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231643/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",林正英系列HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231742/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231742/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",每日荐影HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231727/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231727/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",新片放映厅HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231640/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231640/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",喜剧联盟HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231621/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231621/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",盜墓系列HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231652/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231652/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",TVB剧场HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231733/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/奇妙电视.png" group-title="影视",神探狄仁杰HD
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231634/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231634/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/qita/林正英.png" group-title="林正英",01
