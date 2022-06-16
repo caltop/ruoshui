@@ -386,7 +386,7 @@ http://111.11.123.49:6610/000000001000/8145334647720731271/1.m3u8?stbId=3&livemo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/南京少儿.png" group-title="少儿",南京少儿HD
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/深圳少儿.png" group-title="少儿",深圳少儿HD
-https://sztv-live.cutv.com/1SIQj6s/500/61r1zI0.m3u8?sign=73f3804a2fa54eafdba6a17b64631c4a&t=cc29c9bc
+http://ye23.win/iptv/sztv.php?id=7?zguangd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/江西少儿.png" group-title="少儿",江西少儿HD
 http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/新疆少儿.png" group-title="少儿",新疆少儿HD
