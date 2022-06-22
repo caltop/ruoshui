@@ -1,4 +1,4 @@
-﻿##🇨🇳｜央视##
+##🇨🇳｜央视##
 CCTV1 综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
 CCTV1 综合,http://39.135.32.24:6610/000000001000/1000000001000021973/1.m3u8?i?zzhongd
 CCTV1 综合,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
@@ -600,6 +600,25 @@ CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 喜剧人第1季13,https://wolongzywcdn2.com:65/MJBnbT4q/index.m3u8
 ##
 
+##🥝｜奇艺##
+爱奇艺-热播剧集,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+爱奇艺-票房电影,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+爱奇艺-收视冠军,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_230_720P_t10/c56_lb_230_720P_t10.m3u8
+爱奇艺-经典港片,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+爱奇艺-惊悚午夜,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+爱奇艺-仙侠玄幻,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
+爱奇艺-军旅剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8
+爱奇艺-抗战剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
+爱奇艺-红色剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_179_600_t10/c56_lb_179_600_t10.m3u8
+爱奇艺-军事观察,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
+爱奇艺-五星影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+爱奇艺-惊悚午夜场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+爱奇艺-权谋剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8
+爱奇艺-宫廷正剧,http://112.49.48.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8
+爱奇艺-家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
+爱奇艺-影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
+##
+
 ##💃｜戏曲##
 CCTV11戏曲,http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 梨园频道,http://39.136.48.2:8089/PLTV/88888888/224/3221226354/1.m3u8
@@ -648,7 +667,7 @@ SiTV七彩戏剧,http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3
 策划,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c7sfki3c77u61bd5gk6g&ratio=720p&line=0
 不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
 就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
-昨天今天明天,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+钟点工,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
 捐助,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
 捐助,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c5tjfhbc77u4qkcelf80&ratio=720p&line=0
 捐助后传,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -1953,19 +1972,6 @@ B+音乐厅,http://bp-caster.bestv.com.cn/469/1/video.m3u8
 欢笑剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 ##
 
-##💘｜CIBN##
-CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
-CIBN经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
-CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
-CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
-CIBN动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
-CIBN纪录片,http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
-CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
-CIBN综合,http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
-CIBN真人秀,http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8
-##
-
 ##🌸｜埋堆##
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
@@ -2807,4 +2813,3 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 ##
-
